@@ -1,0 +1,71 @@
+_repo: Little-Dorrit_963
+_version: 0.2.2
+covers:
+- cover_type: archival
+  image_path: 963-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Dickens, Charles
+    alias: Boz
+    birthdate: 1812
+    deathdate: 1870
+    gutenberg_agent_id: '37'
+    url: http://www.gutenberg.org/2009/agents/37
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
+description: "Little Dorrit is a novel by Charles Dickens, originally published in\
+  \ serial form between 1855 and 1857. It satirizes the shortcomings of both government\
+  \ and society, including the institution of debtors' prisons, where debtors were\
+  \ imprisoned, unable to work, until they repaid their debts. The prison in this\
+  \ case is the Marshalsea, where Dickens's own father had been imprisoned. Dickens\
+  \ is also critical of the lack of a social safety net, the treatment and safety\
+  \ of industrial workers, as well the bureaucracy of the British Treasury, in the\
+  \ form of his fictional \"Circumlocution Office\". In addition he satirizes the\
+  \ stratification of society that results from the British class system.\n\n\n From\
+  \ Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/963#Little-Dorrit
+gutenberg_issued: '1997-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '963'
+  wikidata: Q565638
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Inheritance and succession -- Fiction'
+- !lcsh 'London (England) -- Fiction'
+- !lcsh 'Children of prisoners -- Fiction'
+- !lcsh 'Domestic fiction'
+- !lcsh 'Fathers and daughters -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Debt, Imprisonment for -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Marshalsea Prison (Southwark, London, England) -- Fiction'
+- GITenberg
+title: Little Dorrit
+url: http://www.gutenberg.org/ebooks/963
+wikipedia:
+- https://fi.wikipedia.org/wiki/Pikku_Dorrit
+- https://fa.wikipedia.org/wiki/%D8%AF%D9%88%D8%B1%DB%8C%D8%AA_%DA%A9%D9%88%DA%86%DA%A9
+- https://en.wikisource.org/wiki/Little_Dorrit
+- https://commons.wikimedia.org/wiki/Category:Little_Dorrit
+- https://uk.wikipedia.org/wiki/%D0%9A%D1%80%D0%B8%D1%85%D1%96%D1%82%D0%BA%D0%B0_%D0%94%D0%BE%D1%80%D1%80%D1%96%D1%82
+- https://fr.wikisource.org/wiki/La_Petite_Dorrit
+- https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%88%E3%83%AB%E3%83%BB%E3%83%89%E3%83%AA%E3%83%83%E3%83%88
+- https://pt.wikipedia.org/wiki/Little_Dorrit
+- https://es.wikipedia.org/wiki/La_peque%C3%B1a_Dorrit
+- https://en.wikipedia.org/wiki/Little_Dorrit
+- https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%BE%D1%88%D0%BA%D0%B0_%D0%94%D0%BE%D1%80%D1%80%D0%B8%D1%82
+- https://fr.wikipedia.org/wiki/La_Petite_Dorrit
+- https://zh.wikipedia.org/wiki/%E5%B0%8F%E6%9D%9C%E4%B8%BD
+- https://pl.wikipedia.org/wiki/Ma%C5%82a_Dorrit
+- https://kw.wikipedia.org/wiki/Little_Dorrit
+- https://sv.wikipedia.org/wiki/Lilla_Dorrit
+- https://ar.wikipedia.org/wiki/%D8%AF%D9%88%D8%B1%D9%8A%D8%AA_%D8%A7%D9%84%D8%B5%D8%BA%D9%8A%D8%B1%D8%A9_(%D8%B1%D9%88%D8%A7%D9%8A%D8%A9)
+- https://cs.wikipedia.org/wiki/Mal%C3%A1_Dorritka
+- https://it.wikipedia.org/wiki/La_piccola_Dorrit
+- https://no.wikipedia.org/wiki/Lille_Dorrit
+- https://ca.wikipedia.org/wiki/Little_Dorrit
+- https://he.wikipedia.org/wiki/%D7%93%D7%95%D7%A8%D7%99%D7%98_%D7%94%D7%A7%D7%98%D7%A0%D7%94
